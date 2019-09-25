@@ -1,4 +1,4 @@
-/*function myReverse(rNames) {
+function myReverse(rNames) {
   return rNames.reverse()
   }
 
@@ -9,4 +9,3 @@ var i;
 for (i=0; i < names.length; i++) {
   console.log(rNames[i])
   }
-*/
